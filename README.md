@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Prazer, Me Chamo Fellipe!
 
-<!--
-**f3llip33/f3llip33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor em formação | Técnico em Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+🎮 Interessado em desenvolvimento de jogos, programação e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently working on
+
+- 🧩 Projetos de **Desenvolvimento de Sistemas**
+- 🎮 Aprendendo mais sobre **Game Development**
+- 🌐 Criando projetos com **HTML, CSS, JavaScript e PHP**
+- 🐍 Praticando **Python**
+
+## 🌱 Currently learning
+
+- 🤖 Inteligência Artificial
+- 🗄️ Banco de Dados
+- ⚙️ Front-end
+- 🎮 Desenvolvimento de jogos
+- 🔧 Git & GitHub
+
+## 🛠️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,kotlin" />
+</p>
+
+## 🎮 Um pouco Sobre Mim
+
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💡 Gosto de aprender criando projetos
+- 🎮 Apaixonado por jogos
+- 🧠 Sempre tentando aprender algo novo
+- 🚀 Meu objetivo é trabalhar com tecnologia e criar meus próprios projetos
+
+---
+
+### 📊 GitHub Stats
+
+![Fellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=f3llipe33&show_icons=true&theme=tokyonight)
+
+---
+
+>
