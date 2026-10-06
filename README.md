@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,react" />
 </p>
 
 ## 🎮 Um pouco Sobre Mim
@@ -34,12 +34,6 @@
 - 🎮 Apaixonado por jogos
 - 🧠 Sempre tentando aprender algo novo
 - 🚀 Meu objetivo é trabalhar com tecnologia e criar meus próprios projetos
-
----
-
-### 📊 GitHub Stats
-
-![Fellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=f3llipe33&show_icons=true&theme=tokyonight)
 
 ---
 
