@@ -6,14 +6,14 @@
 
 ---
 
-## 🚀 Currently working on
+## 🚀 Atualmente trabalhando em
 
 - 🧩 Projetos de **Desenvolvimento de Sistemas**
 - 🎮 Aprendendo mais sobre **Game Development**
 - 🌐 Criando projetos com **HTML, CSS, JavaScript e PHP**
 - 🐍 Praticando **Python**
 
-## 🌱 Currently learning
+## 🌱 Aprendendo no momento
 
 - 🤖 Inteligência Artificial
 - 🗄️ Banco de Dados
@@ -21,7 +21,7 @@
 - 🎮 Desenvolvimento de jogos
 - 🔧 Git & GitHub
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,kotlin" />
